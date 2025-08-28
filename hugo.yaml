@@ -17,6 +17,10 @@ params:
   description: "Portfolio of Shaheen Nayyar"
   keywords: [Blog, Portfolio, Docker, Kubernetes, Linux, AWS, DevOps, Cloud, Container, Security, Observability]
   author: Me
+  mainSections:
+    - posts
+    - projects
+    - about
   # author: ["Me", "You"] # multiple authors
   images: ["<link or path of image for opengraph, twitter-cards>"]
   DateFormat: "January 2, 2006"
